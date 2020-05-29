@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010614076182",
+    "firebase_url": "https://kingdom-ride-9d8e8.firebaseio.com",
+    "project_id": "kingdom-ride-9d8e8",
+    "storage_bucket": "kingdom-ride-9d8e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010614076182:android:38a9238260fb8c46780637",
+        "android_client_info": {
+          "package_name": "com.example.kingdom_ride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010614076182-hognd50r56cgb2g0u8p9eorqgt8u0at3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kingdom_ride",
+            "certificate_hash": "15248d262d1366169c468185423b3941107f3fd7"
+          }
+        },
+        {
+          "client_id": "1010614076182-vnglplm095hkvaomoq18ino24q40gn4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVkExZbBwObLT60CdhmE6wnSho2JUNXtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010614076182-vnglplm095hkvaomoq18ino24q40gn4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
